@@ -9,6 +9,15 @@ This repository serves as the **Proof of Concept (PoC)** for a Bachelor Thesis a
 The primary goal of this project is to evaluate different approaches to handling **Low Earth Orbit (LEO)** satellite data. The practical implementation focuses on fetching, processing, and analyzing telemetry and geospatial data from various LEO constellations via REST APIs.
 
 ---
+
+## 📚 Resources
+
+| Resource                              | Description | Link |
+|:--------------------------------------| :--- | :--- |
+| **Research Of Existing Technologies** | Literature review & LEO analysis | [Open Doc ↗](https://docs.google.com/document/d/1Js25daDBI30UmB24ra0uVRkMtOS5yarZRW9ssirQKz4/edit?usp=sharing) |
+
+
+---
 ## 🛠 Tech Stack
 * **Language:** Python 3.x
 * **Data Sources (Planned):** Open-Notify (ISS), NASA Earth API, Copernicus Ecosystem.
